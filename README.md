@@ -2,8 +2,11 @@
 
 This is a paper I crafted for an NLP class I had. The topic is **hallucinations in LLMs**, and covers definitions, history, mitigation strategies, and more. Below is the **Abstract**, and below that is the link to the full paper. Thanks a lot!
 
-**Abstract**
 
+![Homer Hallucinating](https://www.getyarn.io/yarn-clip/d7332778-4154-40ce-a86f-bbddb5b19bac/gif#A_qeVx64.copy)
+
+
+**Abstract**
 *"This survey examines the problem of hallu-
 cination in large language models (LLMs),
 where hallucination is a models’ tendency
@@ -24,3 +27,5 @@ newcomer with a comprehensive picture of hal-
 lucinations in the field of NLP and Generative
 AI."*
 
+
+[Full Paper](./Final_Subfield_Survey.pdf)

@@ -11,7 +11,10 @@ This is a paper I crafted for an NLP class I had. The topic is **hallucinations 
 
 
 Full Paper [here](./Hallucinations%20in%20LLMs.pdf).
+
 .
+
 .
+
 .
 

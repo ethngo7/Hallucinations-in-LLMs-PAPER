@@ -3,8 +3,7 @@
 This is a paper I crafted for an NLP class I had. The topic is **hallucinations in LLMs**, and covers definitions, history, mitigation strategies, and more. Below is the **Abstract**, and below that is the link to the full paper. Thanks a lot!
 
 
-![Homer Hallucinating](https://www.getyarn.io/yarn-clip/d7332778-4154-40ce-a86f-bbddb5b19bac/gif#A_qeVx64.copy)
-
+![hallucination](https://y.yarn.co/d7332778-4154-40ce-a86f-bbddb5b19bac_text.gif)
 
 **Abstract**
 
